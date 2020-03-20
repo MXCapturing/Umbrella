@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: b16ea1d32610fea4fab22e440ab995c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5956783310799997347
+    second: Antagonist_Sheet_Gravity_0
+  - first:
+      213: -4132390013610918372
+    second: Antagonist_Sheet_Gravity_1
+  - first:
+      213: -1203954479249131623
+    second: Antagonist_Sheet_Gravity_2
+  - first:
+      213: -2246139052151857856
+    second: Antagonist_Sheet_Gravity_3
+  - first:
+      213: -6483531918100391782
+    second: Antagonist_Sheet_Gravity_4
+  - first:
+      213: -8441263367221968081
+    second: Antagonist_Sheet_Gravity_5
+  - first:
+      213: -4328284297619433108
+    second: Antagonist_Sheet_Gravity_6
+  - first:
+      213: -8165631567825828283
+    second: Antagonist_Sheet_Gravity_7
+  - first:
+      213: -4140127095482437380
+    second: Antagonist_Sheet_Gravity_8
+  - first:
+      213: -8092314695677443948
+    second: Antagonist_Sheet_Gravity_9
+  - first:
+      213: 5647920175973755732
+    second: Antagonist_Sheet_Gravity_10
+  - first:
+      213: 7939051089275848214
+    second: Antagonist_Sheet_Gravity_11
+  - first:
+      213: 6566161856629320159
+    second: Antagonist_Sheet_Gravity_12
+  - first:
+      213: 3258285071282187159
+    second: Antagonist_Sheet_Gravity_13
+  - first:
+      213: -2122167100244537119
+    second: Antagonist_Sheet_Gravity_14
+  - first:
+      213: 2827024055889172742
+    second: Antagonist_Sheet_Gravity_15
+  - first:
+      213: 727262892172166591
+    second: Antagonist_Sheet_Gravity_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81a382bfedf0544a60063c9fa43f5e
+      internalID: 5956783310799997347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e19fc53060f941a52a1011e177c5e
+      internalID: -4132390013610918372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60292618f45a25d49b916b6d51b489ed
+      internalID: -1203954479249131623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3671cb599b2b44e8255c7cf65d7b97
+      internalID: -2246139052151857856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c83e0b4f0e3c4393ee39dcb771502
+      internalID: -6483531918100391782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a965cf6fb70a6b45b046e5f59026e26
+      internalID: -8441263367221968081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb11490f81934a4b90b5f9ce90c33cb
+      internalID: -4328284297619433108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2cf87cc3c4a74281d036107a8af9a
+      internalID: -8165631567825828283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4750b5b264be041863b570574e0ff6
+      internalID: -4140127095482437380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff64a031a58bfc49b61d698f2ebbca5
+      internalID: -8092314695677443948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d4e39ff75fa445868b16ef2592820
+      internalID: 5647920175973755732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef782d261210afb4b8b246aee56cbec5
+      internalID: 7939051089275848214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa3a22f2bb66941ab6cc099a0b096b
+      internalID: 6566161856629320159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f26e3c10b94ba409122c74b2d72ae0
+      internalID: 3258285071282187159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3dda8a84d058443bbfad0b03f2420a
+      internalID: -2122167100244537119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda3e63f6b4232448733aabe4aff335
+      internalID: 2827024055889172742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antagonist_Sheet_Gravity_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b4c2eab9ee45c429f82a82029a8428
+      internalID: 727262892172166591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89429fa8a658b8048b982f48f1eaa6c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
